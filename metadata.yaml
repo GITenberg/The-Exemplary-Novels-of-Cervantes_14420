@@ -1,0 +1,43 @@
+_repo: The-Exemplary-Novels-of-Cervantes_14420
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Kelly, Walter Keating
+    gutenberg_agent_id: '34504'
+    url: http://www.gutenberg.org/2009/agents/34504
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cervantes Saavedra, Miguel de
+    aliases:
+    - Cervantes, Michel
+    - De Cervantes Saavedra, Miguel
+    - Cervantes, Miguel de
+    - Saavedra, Miguel de Cervantes
+    birthdate: 1547
+    deathdate: 1616
+    gutenberg_agent_id: '505'
+    url: http://www.gutenberg.org/2009/agents/505
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Miguel_de_Cervantes
+    - http://es.wikipedia.org/wiki/Miguel_de_Cervantes
+description: ''
+gutenberg_issued: '2004-12-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14420'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PQ'
+tableOfContents: The Lady Cornelia -- Rinconete and Cortadillo -- The licentiate vidriera
+  -- The deceitful marriage -- Dialogue between Scipio and Berganza -- The little
+  gipsy girl -- The generous lover -- The Spanish-English lady -- The force of blood
+  -- The jealous estramaduran -- The illustrious scullery-maid -- The two damsels.
+title: The Exemplary Novels of Cervantes
+url: http://www.gutenberg.org/ebooks/14420
